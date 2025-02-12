@@ -1,0 +1,30 @@
+organizers:
+  - name: "Maria Heuss"
+    title: "PhD Candidate"
+    affiliation: "University of Amsterdam"
+    image: "/assets/images/maria.png"
+    url: "https://mariaheuss.com/"
+
+  - name: "Catherine Chen"
+    title: "PhD Candidate"
+    affiliation: "Brown University"
+    image: "/assets/images/catherine.jpg"
+    url: "https://catherineschen.github.io/"
+
+  - name: "Avishek Anand"
+    title: "Professor"
+    affiliation: "TU Delft"
+    image: "/assets/images/avishek.png"
+    url: "https://www.avishekanand.com/"
+
+  - name: "Carsten Eickhoff"
+    title: "Professor"
+    affiliation: "University of Tübingen"
+    image: "/assets/images/carsten.png"
+    url: "https://health-nlp.com"
+
+  - name: "Suzan Verberne"
+    title: "Professor"
+    affiliation: "Leiden University"
+    image: "/assets/images/suzan.png"
+    url: "https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne#tab-1"
