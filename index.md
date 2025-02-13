@@ -20,11 +20,11 @@ This workshop aims to address challenges of the field by providing a platform wi
 
 
 ## Important Dates 
-- Submission Deadline: TBD
-- Acceptance Notifications: TBD
+- Submission Deadline: April 23, 2025
+- Acceptance Notifications: (Tentative) May 21, 2025
 - Workshop Date: July 17, 2025
 
 All deadlines are 11:59 pm, Anywhere on Earth (AoE).
 
 ## Contact
-For any questions, you may contact the workshop organizers at [sigir25xirworkshop@gmail.com](mailto:sigir25xirworkshop@gmail.com)
+For any questions, you may contact the workshop organizers at [sigir25xirworkshop@gmail.com](mailto:sigir25xirworkshop@gmail.com) or at [m.c.heuss@uva.nl](mailto:m.c.heuss@uva.nl).
