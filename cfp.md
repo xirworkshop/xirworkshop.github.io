@@ -1,11 +1,9 @@
 ---
-title: Call for Papers
+title: Call for extended Abstracts
 ---
 
-## Call for extended Abstracts
 
-
-To foster the growth of an active community, we aim to involve both senior and junior researchers in our workshop. To curate an insightful and engaging program, we invite submissions of **extended abstracts** up to 2 pages in length for research across various stages: already published work, ongoing work not yet submitted elsewhere, and finished work that has not yet been published. The workshop will also allow authors of in-progress work to receive constructive feedback from the community to help refine their papers.
+To foster the growth of an active community, we aim to involve both senior and junior researchers in our workshop. To curate an insightful and engaging program, we invite submissions of **extended abstracts** up to 2 pages in length for research across various stages: already published work, ongoing work not yet submitted elsewhere, and finished work that has not yet been published. The workshop will also allow authors of in-progress work to receive constructive feedback from the community to help refine their papers. Accepted contributions will get chance to present their work in a short lightning talk as well as a poster in a dedicated session.  
 
 Topics of interest may include but are not limited to: 
 
