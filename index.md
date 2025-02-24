@@ -6,7 +6,7 @@ feature_text: |
   ### SIGIR 2025 - July 17, 2025
 ---
 
-As models grow more complex and societal demands for transparency increase with emerging regulations, explainability has become an even more important research area. However, despite its recognized relevance, explainability research in IR has seen slower progress than in related fields. This full day workshop aims to advance research in explainable information retrieval by providing a more in-depth platform to reflect on recent developments and facilitate discussions to address new and persistent challenges. Our goal is to bring together a diverse group of researchers to build a shared understanding of key tasks and challenges that will lay the foundation for the future of explainable IR research.
+As models grow more complex and societal demands for transparency increase with emerging regulations, explainability has become an even more important research area. However, despite its recognized relevance, explainability research in IR has seen slower progress than in related fields. This full day workshop aims to advance research in explainable information retrieval (**XIR**) by providing a more in-depth platform to reflect on recent developments and facilitate discussions to address new and persistent challenges. Our goal is to bring together a diverse group of researchers to build a shared understanding of key tasks and challenges that will lay the foundation for the future of explainable IR research.
 
 ## Theme and Purpose
 
