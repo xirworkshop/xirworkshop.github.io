@@ -22,3 +22,25 @@ In addition to "traditional" topics in explainability, we also open extended abs
 - **Defining and Evaluating Explainability:** How can we unify different notions and definitions of explainability and achieve consensus over what constitutes a "good" explanation?
 - **Insights from Other Fields:** What takeaways or solutions from fields outside of IR can be used to advance XIR research?
 - **Interdisciplinary XIR:** How do ethical concerns, regulatory requirements (e.g., GDPR), and domain-specific constraints (e.g., health, legal, finance, etc.) affect explainability research?
+
+
+## Submission guidelines 
+Extended abstracts (up to 2 pages) can be submitted via the workshop's EasyChair Link (will follow shortly). 
+All submissions will be peer reviewed (single blind) by the program committee and judged based by their relevance to the workshop and themes identified above. All submissions must be written in English and formatted according to the latest ACM SIG proceedings template available at https://www.acm.org/publications/proceedings-template using the following document class: 
+
+```` \documentclass[manuscript, review, anonymous=true]{acmart} ```` 
+
+Please note that at least one of the authors of each accepted paper must register for the workshop and present the paper through a lightning talk as well as a poster in the corresponding sessions. 
+
+
+
+
+## Important Dates 
+- Submission Deadline: April 16, 2025
+- Acceptance Notifications: (Tentative) May 14, 2025
+- Workshop Date: July 17, 2025
+
+All deadlines are 11:59 pm, Anywhere on Earth (AoE).
+
+## Contact
+For any questions, you may contact the workshop organizers at [sigir25xirworkshop@gmail.com](mailto:sigir25xirworkshop@gmail.com).git
