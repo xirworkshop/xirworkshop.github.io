@@ -28,7 +28,7 @@ In addition to "traditional" topics in explainability, we also open extended abs
 Extended abstracts (up to 2 pages, double column, references not included in page limit) can be submitted via the workshop's [EasyChair Link](https://easychair.org/conferences/?conf=wexir25). 
 All submissions will be peer reviewed (single blind) by the program committee and judged based by their relevance to the workshop and themes identified above. All submissions must be written in English and formatted according to the latest ACM SIG proceedings template available at https://www.acm.org/publications/proceedings-template using the following document class: 
 
-```` \documentclass[manuscript, review, anonymous=false]{acmart} ```` 
+```` \documentclass[sigconf, review, anonymous=false]{acmart} ```` 
 
 If you prefer, anonymous=true is also fine. Please note that at least one of the authors of each accepted paper must register for the workshop and present the paper through a lightning talk as well as a poster in the corresponding sessions. 
 
