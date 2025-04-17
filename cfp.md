@@ -36,7 +36,7 @@ If you prefer, anonymous=true is also fine. Please note that at least one of the
 
 
 ## Important Dates 
-- Submission Deadline: April 16, 2025
+- Submission Deadline: ~~April 16, 2025~~ <span style="color: red;">April 23, 2025 </span> 
 - Acceptance Notifications: (Tentative) May 14, 2025
 - Workshop Date: July 17, 2025
 
