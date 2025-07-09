@@ -1,5 +1,5 @@
 ---
-title: Call for extended Abstracts
+title: Call for Extended Abstracts
 ---
 
 
@@ -24,7 +24,7 @@ In addition to "traditional" topics in explainability, we also open extended abs
 - **Interdisciplinary XIR:** How do ethical concerns, regulatory requirements (e.g., GDPR), and domain-specific constraints (e.g., health, legal, finance, etc.) affect explainability research?
 
 
-## Submission guidelines 
+## Submission Guidelines 
 Extended abstracts (up to 2 pages, double column, references not included in page limit) can be submitted via the workshop's [EasyChair Link](https://easychair.org/conferences/?conf=wexir25). 
 All submissions will be peer reviewed (single blind) by the program committee and judged based by their relevance to the workshop and themes identified above. All submissions must be written in English and formatted according to the latest ACM SIG proceedings template available at https://www.acm.org/publications/proceedings-template using the following document class: 
 
