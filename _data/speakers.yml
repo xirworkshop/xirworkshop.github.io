@@ -1,0 +1,20 @@
+speakers:
+  - name: "Oana Inel"
+    title: "Postdoctoral Researcher"
+    affiliation: "University of Zurich"
+    image: "/assets/images/oana.png"
+    url: "https://oana-inel.github.io/"
+    bio: ""
+    title:
+    abstract:
+
+panelists:
+  - name: "Oana Inel"
+    title: "Postdoctoral Researcher"
+    affiliation: "University of Zurich"
+  - name: "Debasis Ganguly"
+    title: "Lecturer"
+    affiliation: "University of Glasgow"
+  # - name: "Gineke Wiggers"
+  #   title: "Senior Technology Product Manager"
+  #   affiliation: "Wolters Kluwer"

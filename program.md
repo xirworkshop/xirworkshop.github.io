@@ -56,3 +56,54 @@ title: Program
   </tbody>
 </table>
 
+
+---------
+## Speakers
+
+### Keynote
+<div class="container">
+{% include head.html %}
+  <div class="row">
+    {% for person in site.data.speakers.speakers %}
+    <div class="col-12 mb-4">
+      <div class="d-flex flex-row align-items-start" style="flex-wrap: wrap;">
+        
+        <div style="width: 200px; flex-shrink: 0; margin-right: 20px;">
+          <a href="{{ person.url }}" target="_blank" style="text-decoration: none;">
+            <div class="card text-center">
+              <img src="{{ person.image }}" class="card-img-top" alt="{{ person.name }}" style="max-height: 200px; width: 150px; object-fit: contain; margin: auto; padding-top: 10px;">
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 1rem;">{{ person.name }}</h5>
+                <p class="card-text" style="font-size: 0.9rem;">{{ person.affiliation }}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div style="flex: 1;">
+          <p class="card-text" style="font-size: 0.9rem;"> {{ person.bio }}</p>
+        </div>
+
+      </div>
+      
+      <!-- <div style="margin-top: 10px;">
+        <h5 class="card-title" style="font-size: 1rem;">{{ person.name }}</h5>
+        <p class="card-text" style="font-size: 0.9rem;">{{ person.affiliation }}</p>
+      </div> -->
+
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+### Panelists
+
+<!-- {% for person in site.data.speakers.panelists %}
+- **{{ person.name }}**: {{ person.title }} at {{ person.affiliation }}
+{% endfor %} -->
+
+- **Oana Inel**: Postdoctoral Researcher at the University of Zurich
+- **Debasis Ganguly**: Lecturer at the University of Glasgow
+- **Gineke Wiggers**: Senior Technology Product Manager at Wolters Kluwer
+- **Avishek Anand**: Associate Professor at TU Delft
+- **Catherine Chen**: PhD Candidate at Brown University
