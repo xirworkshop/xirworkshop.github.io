@@ -43,7 +43,7 @@ title: Program
     </tr>
     <tr>
       <td>14:30 - 15:15</td>
-      <td>Discussion Panel: <i>Needs and Challenges of Stakeholders/Practitioners in XIR</td>
+      <td>Discussion Panel: <i>Needs and Challenges of Stakeholders/Practitioners in XIR</i></td>
     </tr>
     <tr>
       <td>15:15 - 16:00</td>
