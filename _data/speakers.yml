@@ -5,8 +5,8 @@ speakers:
     image: "/assets/images/oana.png"
     url: "https://oana-inel.github.io/"
     bio: ""
-    title:
-    abstract:
+    title: "Fostering Human Reflection Through Explanations: Accounting for the diverse opinions, perspectives, and backgrounds of users"
+    abstract: "Explanations accompany more and more often recommender and information-retrieval systems. However, their usefulness depends on the trustworthiness of the data, the users they target, and the contexts in which they are consumed. This talk starts by examining lessons learned in the context of data annotation practices and explanation evaluation for recommender systems and shows why it is important to consider the users that the explanations serve and the data that is being explained. Then, the talk takes a practical approach to put users back into the driver seat and help them make sense of vast information spaces through human-centered and human-empowering solutions. In particular, we consider explanations to be a suitable means to providing decision-support systems transparency and fostering human reflection on online content. The goal of this talk is to present various approaches for fostering human reflection through explanations that incorporate and consider user-driven, diversity, and transparency goals, while emphasizing the need to conduct thorough designs and evaluations of explanations."
 
 panelists:
   - name: "Oana Inel"

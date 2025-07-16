@@ -80,16 +80,12 @@ title: Program
           </a>
         </div>
 
-        <div style="flex: 1;">
-          <p class="card-text" style="font-size: 0.9rem;"> {{ person.bio }}</p>
-        </div>
-
       </div>
       
-      <!-- <div style="margin-top: 10px;">
-        <h5 class="card-title" style="font-size: 1rem;">{{ person.name }}</h5>
-        <p class="card-text" style="font-size: 0.9rem;">{{ person.affiliation }}</p>
-      </div> -->
+      <div style="margin-top: 10px;">
+        <h5 class="card-title" style="font-size: 1rem;">{{ person.title }}</h5>
+        <p class="card-text" style="font-size: 0.9rem;">{{ person.abstract }}</p>
+      </div>
 
     </div>
     {% endfor %}
