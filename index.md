@@ -18,6 +18,7 @@ This workshop aims to address challenges of the field by providing a platform wi
 
 3. **Future of XIR:** Consolidate notions and definitions, establish best practices, and identify challenges of explainability to outline a shared trajectory for future research.
 
+
 ## Important Dates 
 - Submission Deadline: ~~April 16, 2025~~ <span style="color: red;">April 23, 2025 </span> 
 - Acceptance Notifications: (Tentative) May 14, 2025
