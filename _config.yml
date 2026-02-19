@@ -27,12 +27,12 @@ plugins:
 # Site settings
 url: ''
 baseurl: ''
-title: 'WEIR @ SIGIR 2025'
+title: 'WEIR @ SIGIR 2026'
 description: ''
 permalink: pretty
-logo: "/assets/images/sigir25logo.png"
-logo_url: "https://sigir2025.dei.unipd.it"
-logo_title: "SIGIR 2025"
+logo: "/assets/images/sigir26logo.png"
+logo_url: "https://sigir2026.org/en-AU"
+logo_title: "SIGIR 2026"
 
 # Pagination
 paginate: 5
@@ -44,12 +44,16 @@ navigation_header:
   url: /
 - title: Call for Papers
   url: /cfp/
-- title: Accepted Papers
-  url: /papers/
+# - title: Accepted Papers
+  # url: /papers/
 - title: Program
   url: /program/
 - title: Organizers
   url: /organizers/
+# - title: Previous Editions
+#   children:
+#     - title: SIGIR 2025
+#       url: /previous/2025/
 
 # Footer nav
 navigation_footer:

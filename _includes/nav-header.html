@@ -1,0 +1,52 @@
+{% if site.navigation_header %}
+<nav class="nav nav--header" aria-label="Primary">
+  <ul class="list list--nav">
+    {% for item in site.navigation_header %}
+
+      {% assign url = nil %}
+      {% if item.url %}
+        {% if item.url contains '://' %}
+          {% assign url = item.url %}
+        {% else %}
+          {% assign url = item.url | relative_url %}
+        {% endif %}
+      {% endif %}
+
+      {% if item.children %}
+        <li class="item item--nav item--dropdown">
+          <details class="dropdown">
+            <summary class="dropdown__summary">
+              {% if url %}
+                <a href="{{ url }}">{{ item.title }}</a>
+              {% else %}
+                <span class="dropdown__label">{{ item.title }}</span>
+              {% endif %}
+            </summary>
+
+            <ul class="dropdown__menu" aria-label="{{ item.title }} submenu">
+              {% for child in item.children %}
+                {% if child.url contains '://' %}
+                  {% assign child_url = child.url %}
+                {% else %}
+                  {% assign child_url = child.url | relative_url %}
+                {% endif %}
+                <li class="dropdown__item">
+                  <a href="{{ child_url }}">{{ child.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </details>
+        </li>
+      {% else %}
+        <li class="item item--nav">
+          <a href="{{ url }}">{{ item.title }}</a>
+        </li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</nav>
+{% else %}
+  {% include nav-default.html %}
+{% endif %}

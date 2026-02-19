@@ -2,7 +2,7 @@
 title: Program
 ---
 
-## Schedule
+## Tentative Schedule
 
 
 <table class="table table-striped table-hover text-center">
@@ -15,11 +15,11 @@ title: Program
   <tbody>
     <tr>
       <td>9:00 - 9:45</td>
-      <td>Opening Remarks and Keynote: Oana Inel</td>
+      <td>Opening Remarks and Keynote</td>
     </tr>
     <tr>
       <td>9:45 - 10:30</td>
-      <td>Discussion Panel: <i>Evaluation of Explanations</i></td>
+      <td>Discussion Panel: <i>Perspectives on the Explainability Pipeline</i></td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
@@ -27,31 +27,35 @@ title: Program
     </tr>
     <tr>
       <td>11:00 - 11:45</td>
-      <td>Author Lightning Talks</td>
+      <td>Plenary Discussion (panel)</td>
     </tr>
     <tr>
       <td>11:45 - 12:30</td>
-      <td>Round Table Discussions & Writing</td>
+      <td>Author Lightning Talks</td>
     </tr>
     <tr>
       <td>12:30 - 14:00</td>
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>13:00 - 14:30</td>
+      <td>13:30 - 14:30</td>
       <td>Poster Session</td>
     </tr>
     <tr>
-      <td>14:30 - 15:15</td>
-      <td>Discussion Panel: <i>Needs and Challenges of Stakeholders/Practitioners in XIR</i></td>
-    </tr>
-    <tr>
-      <td>15:15 - 16:00</td>
-      <td>Round Table Discussions & Writing</td>
+      <td>14:30 - 16:00</td>
+      <td>Plenary Discussion (writing brainstorming)</td>
     </tr>
     <tr>
       <td>16:00 - 16:30</td>
-      <td>Closing / Coffee Break</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>16:30 - 17:15</td>
+      <td>Writing Session</td>
+    </tr>
+    <tr>
+      <td>17:15 - 17:30</td>
+      <td>Closing Remarks</td>
     </tr>
   </tbody>
 </table>
@@ -59,6 +63,8 @@ title: Program
 
 ---------
 ## Speakers
+
+<p style="font-size: 15px !important;">To be announced.</p>
 
 ### Keynote
 <div class="container">
@@ -98,8 +104,8 @@ title: Program
 - **{{ person.name }}**: {{ person.title }} at {{ person.affiliation }}
 {% endfor %} -->
 
-- **Oana Inel**: Postdoctoral Researcher at the University of Zurich
+<!-- - **Oana Inel**: Postdoctoral Researcher at the University of Zurich
 - **Debasis Ganguly**: Lecturer at the University of Glasgow
 - **Gineke Wiggers**: Senior Technology Product Manager at Wolters Kluwer
 - **Avishek Anand**: Associate Professor at TU Delft
-- **Catherine Chen**: PhD Candidate at Brown University
+- **Catherine Chen**: PhD Candidate at Brown University -->
