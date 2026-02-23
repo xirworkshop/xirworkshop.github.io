@@ -24,7 +24,7 @@ In addition to "traditional" topics in explainability, we also open extended abs
 
 
 ## Submission Guidelines 
-Extended abstracts (up to 2 pages, double column, references not included in page limit) can be submitted via the workshop's EasyChair Link (to be released soon). 
+Extended abstracts (up to 2 pages, double column, references not included in page limit) can be submitted via the workshop's [EasyChair Link](https://easychair.org/conferences/?conf=wexir26). 
 All submissions will be peer reviewed (single blind) by the program committee and judged based by their relevance to the workshop and themes identified above. All submissions must be written in English and formatted according to the latest [ACM SIG proceedings template](https://www.acm.org/publications/proceedings-template) using the following document class: 
 
 ```` \documentclass[sigconf, review, anonymous=false]{acmart} ```` 
@@ -42,4 +42,4 @@ If you prefer, anonymous=true is also fine. Please note that at least one of the
 All deadlines are 11:59 pm, Anywhere on Earth (AoE).
 
 ## Contact
-For any questions, you may contact the workshop organizers at [catherine_s_chen@brown.edu](mailto:catherine_s_chen@brown.edu).
+For any questions, you may contact the workshop organizers at [wexir26@easychair.org](mailto:wexir26@easychair.org) or [catherine_s_chen@brown.edu](mailto:catherine_s_chen@brown.edu).

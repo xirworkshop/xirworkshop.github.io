@@ -39,4 +39,4 @@ Thus, we have three primary goals:
 All deadlines are 11:59 pm, Anywhere on Earth (AoE).
 
 ## Contact
-For any questions, you may contact the workshop organizers at [catherine_s_chen@brown.edu](mailto:catherine_s_chen@brown.edu).
+For any questions, you may contact the workshop organizers at [wexir26@easychair.org](mailto:wexir26@easychair.org) or [catherine_s_chen@brown.edu](mailto:catherine_s_chen@brown.edu).
