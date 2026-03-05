@@ -27,7 +27,7 @@ plugins:
 # Site settings
 url: ''
 baseurl: ''
-title: 'WEIR @ SIGIR 2026'
+title: 'WExIR @ SIGIR 2026'
 description: ''
 permalink: pretty
 logo: "/assets/images/sigir26logo.png"
