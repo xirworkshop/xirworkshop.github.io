@@ -32,7 +32,7 @@ Thus, we have three primary goals:
 
 
 ## Important Dates 
-- Submission Deadline: April 17, 2026
+- Submission Deadline: ~~April 17, 2026~~ May 1, 2026
 - Acceptance Notifications: May 21, 2026
 - Workshop Date: July 24, 2026
 
