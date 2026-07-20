@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="hero-inner">
+    <p class="hero-badge">{{ site.logo_title | default: "SIGIR 2026" }}</p>
+    <h1 class="hero-title">{{ page.workshop_title | default: site.title }}</h1>
+    {% if page.workshop_date %}
+    <p class="hero-subtitle">{{ page.workshop_date }}</p>
+    {% endif %}
+    {% if page.workshop_location %}
+    <p class="hero-location">{{ page.workshop_location }}</p>
+    {% endif %}
+
+    <div class="hero-organizers">
+      {% for person in site.data.organizers.organizers %}
+      <a href="{{ person.url }}" target="_blank" class="hero-org">
+        <img src="{{ person.image | relative_url }}" alt="{{ person.name }}" class="hero-org-photo">
+        <span class="hero-org-name">{{ person.name }}</span>
+        <span class="hero-org-affil">{{ person.affiliation }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<div class="page-wrap page-wrap--home">
+  <div class="page-body typeset">
+    {{ content }}
+  </div>
+</div>

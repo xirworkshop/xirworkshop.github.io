@@ -5,7 +5,7 @@ title: Program
 ## Tentative Schedule
 
 
-table class="table table-striped table-hover text-center">
+<table class="table table-striped table-hover text-center">
   <thead class="table-dark">
     <tr>
       <th scope="col"><b>Time</b></th>
@@ -66,7 +66,6 @@ table class="table table-striped table-hover text-center">
 
 ### Keynote
 <div class="container">
-{% include head.html %}
   <div class="row">
     {% for person in site.data.speakers.speakers %}
     <div class="col-12 mb-4">
@@ -75,7 +74,7 @@ table class="table table-striped table-hover text-center">
         <div style="width: 200px; flex-shrink: 0; margin-right: 20px;">
           <a href="{{ person.url }}" target="_blank" style="text-decoration: none;">
             <div class="card text-center">
-              <img src="{{ person.image }}" class="card-img-top" alt="{{ person.name }}" style="max-height: 200px; width: 150px; object-fit: contain; margin: auto; padding-top: 10px;">
+              <img src="{{ person.image | relative_url }}" class="card-img-top" alt="{{ person.name }}">
               <div class="card-body">
                 <h5 class="card-title" style="font-size: 1rem;">{{ person.name }}</h5>
                 <p class="card-text" style="font-size: 0.9rem;">{{ person.affiliation }}</p>

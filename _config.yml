@@ -50,10 +50,10 @@ navigation_header:
   url: /program/
 - title: Organizers
   url: /organizers/
-# - title: Previous Editions
-#   children:
-#     - title: SIGIR 2025
-#       url: /previous/2025/
+- title: Previous Editions
+  children:
+    - title: WExIR @ SIGIR 2025
+      url: /previous/2025/
 
 # Footer nav
 navigation_footer:
@@ -84,6 +84,11 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  -
+    scope:
+      path: "previous/2025"
+    values:
+      layout: page-legacy # Restore original alembic style for 2025 archive
 
 sass:
   sass_dir: _sass

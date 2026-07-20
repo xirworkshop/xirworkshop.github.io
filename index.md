@@ -1,10 +1,8 @@
 ---
-# title: WExIR @ SIGIR 2026
-feature_image: "https://picsum.photos/1300/400?image=989"
-# feature_image: "/assets/images/melbourne.jpeg"
-feature_text: |
-  # Second Workshop on Explainability in Information Retrieval (WExIR)
-  ### SIGIR 2026 - July 24, 2026
+layout: home
+workshop_title: "Second Workshop on Explainability in Information Retrieval (WExIR)"
+workshop_date: "Melbourne, Australia · July 24, 2026 · 9:00 - 16:10"
+workshop_location: "Eureka 2"
 ---
 
 As models grow more complex and societal demands for transparency increase with emerging regulations, explainability has become an increasingly important research area. However, despite its recognized relevance, progress in explainability research in information retrieval (IR) has been slower than related fields. This **full day** workshop aims to advance research in explainable IR by providing a more in-depth platform to reflect on recent developments and facilitate discussions across both new and persistent challenges. 
