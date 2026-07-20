@@ -1,0 +1,9 @@
+speakers:
+  - name: "Mor Vered"
+    title: "Senior Lecturer"
+    affiliation: "Monash University"
+    image: "/assets/images/mor_vered.jpeg"
+    url: "https://research.monash.edu/en/persons/mor-vered/"
+    bio: "Dr. Mor Vered is a Senior Lecturer in Computer Science at Monash University, Australia. Her research focuses on explainable artificial intelligence (XAI), human-AI interaction, automated planning, and goal recognition, with a particular emphasis on developing AI systems that are transparent, trustworthy, and human-centred. She has published extensively in leading AI venues and collaborates across academia and industry on advancing explainability in complex AI systems. In her work, Dr. Vered combines technical AI research with insights from human-centred design to improve how people understand, interact with, and make decisions alongside intelligent systems."
+    title: "eXplainable AI ! … ?"
+    abstract: "In this talk I’ll provide an overview of my work in eXplainable AI (XAI), examining its state-of-the-art techniques, current trends, and limitations. I'll begin by introducing key XAI methods and explore the growing demand for fairness, accountability, and human-in-the-loop systems, as well as the challenges of balancing model accuracy with explainability. Despite significant progress, XAI faces limitations, including the trade-off between model complexity and interpretability, and the subjective nature of explanations.  I’ll also discuss the importance of Human-Centered AI, emphasizing that explanations must be understandable to people, and how insights from the social sciences can inform better explanation design.  And  finally, I will introduce Evaluative AI, a paradigm shift from the current model of XAI . This concept represents a step toward creating more accountable, robust, and transparent AI systems, ensuring that explanations not only make sense but also align with human values and decision-making needs."
