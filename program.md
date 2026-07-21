@@ -69,27 +69,27 @@ title: Program
   <div class="row">
     {% for person in site.data.speakers.speakers %}
     <div class="col-12 mb-4">
-      <div class="d-flex flex-row align-items-start" style="flex-wrap: wrap;">
-        
-        <div style="width: 200px; flex-shrink: 0; margin-right: 20px;">
+      <div class="d-flex flex-row align-items-start" style="flex-wrap: wrap; gap: 1.5rem;">
+
+        <div style="width: 200px; flex-shrink: 0;">
           <a href="{{ person.url }}" target="_blank" style="text-decoration: none;">
             <div class="card text-center">
               <img src="{{ person.image | relative_url }}" class="card-img-top" alt="{{ person.name }}">
               <div class="card-body">
-                <h5 class="card-title" style="font-size: 1rem;">{{ person.name }}</h5>
-                <p class="card-text" style="font-size: 0.9rem;">{{ person.affiliation }}</p>
+                <h5 class="card-title">{{ person.name }}</h5>
+                <p class="card-text">{{ person.affiliation }}</p>
               </div>
             </div>
           </a>
         </div>
 
-      </div>
-      
-      <div style="margin-top: 10px;">
-        <h5 class="card-title" style="font-size: 1rem;">{{ person.title }}</h5>
-        <p class="card-text" style="font-size: 0.9rem;">{{ person.abstract }}</p>
-      </div>
+        <div style="flex: 1; min-width: 250px;">
+          <p style="font-size: 0.9rem; margin-bottom: 1rem;">{{ person.bio }}</p>
+          <h5 style="font-size: 1rem; font-weight: 600; margin-bottom: 0.4rem;">{{ person.title }}</h5>
+          <p style="font-size: 0.9rem;">{{ person.abstract }}</p>
+        </div>
 
+      </div>
     </div>
     {% endfor %}
   </div>
