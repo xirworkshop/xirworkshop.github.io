@@ -13,6 +13,7 @@ layout: default
     <p class="hero-location">{{ page.workshop_location }}</p>
     {% endif %}
 
+    {% comment %}
     <div class="hero-organizers">
       {% for person in site.data.organizers.organizers %}
       <a href="{{ person.url }}" target="_blank" class="hero-org">
@@ -22,6 +23,7 @@ layout: default
       </a>
       {% endfor %}
     </div>
+    {% endcomment %}
   </div>
 </section>
 
