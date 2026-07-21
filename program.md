@@ -2,7 +2,7 @@
 title: Program
 ---
 
-## Tentative Schedule
+## Schedule
 
 
 <table class="table table-striped table-hover text-center">
