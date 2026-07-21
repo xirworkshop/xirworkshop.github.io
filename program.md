@@ -14,11 +14,11 @@ title: Program
   </thead>
   <tbody>
     <tr>
-      <td>9:00 - 9:45</td>
+      <td>9:00 - 10:00</td>
       <td>Opening Remarks and Keynote: Dr. Mor Vered</td>
     </tr>
     <tr>
-      <td>9:45 - 10:30</td>
+      <td>10:00 - 10:30</td>
       <td>Author Lightning Talks</td>
     </tr>
     <tr>
