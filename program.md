@@ -97,12 +97,6 @@ title: Program
 
 ### Panelists
 
-<!-- {% for person in site.data.speakers.panelists %}
-- **{{ person.name }}**: {{ person.title }} at {{ person.affiliation }}
-{% endfor %} -->
-
-<!-- - **Oana Inel**: Postdoctoral Researcher at the University of Zurich
-- **Debasis Ganguly**: Lecturer at the University of Glasgow
-- **Gineke Wiggers**: Senior Technology Product Manager at Wolters Kluwer
-- **Avishek Anand**: Associate Professor at TU Delft
-- **Catherine Chen**: PhD Candidate at Brown University -->
+{% for person in site.data.speakers.panelists %}
+- {% if person.url %}[**{{ person.name }}**]({{ person.url }}){:target="_blank"}{% else %}**{{ person.name }}**{% endif %}, {{ person.title }}, {{ person.affiliation }}
+{% endfor %}
